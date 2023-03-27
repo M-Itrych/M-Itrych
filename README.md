@@ -16,4 +16,4 @@ Current goal: Learining React 👨‍💻...
 ### 📊 Stats
 ![M-Itrych's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Itrych&show_icons=true&theme=dark)
 <br/>
-<img  alt="GitHub"  style="padding-right:10px;" src="https://www.codewars.com/users/vMelio/badges/large" />
+<img  alt="GitHub"  style="padding-right:10px;" src="https://www.codewars.com/users/MItrych/badges/large" />
