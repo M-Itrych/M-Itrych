@@ -1,4 +1,4 @@
-### Michał Itrych(.Net Developer) 👋
+### Michał Itrych(Front-End Developer) 👋
 
 Current goal: Learining React 👨‍💻... 
 
