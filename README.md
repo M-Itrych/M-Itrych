@@ -1,8 +1,8 @@
-### Michał Itrych(Front-End Developer) 👋
+### Michał Itrych 👋
 
 Website: michalitrych.com
 
-Current goal: Learining React 👨‍💻... 
+Current goal: Learn Python 👨‍💻... 
 
 ### 🧰 Languages and Tools
 <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
