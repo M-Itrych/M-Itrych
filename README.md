@@ -1,3 +1,1 @@
-### Michał Itrych 👋
 
-Current goal: Get a Job 👨‍💻... 
